@@ -1,0 +1,16 @@
+{
+  "name": "简易记账工具",
+  "short_name": "记账",
+  "description": "一款简单易用的记账工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "https://p9-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/rc/pc/super_tool/2900ddce7fde47d080602bd1f427d014~tplv-a9rns2rl98-image.image?lk3s=8e244e95&rcl=20260227171804418FC9C9F74E08B073D8&rrcfp=f06b921b&x-expires=1774775916&x-signature=IgBoVvfZZmpsjFmYjdtJ3n6NNtM%3D",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
